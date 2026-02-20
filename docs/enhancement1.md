@@ -1,1 +1,1 @@
-<link rel="stylesheet" href="style.css"> <nav> <a href="index.md">Home</a> | <a href="self-assessment.md">Self-Assessment</a> | <a href="enhancement1">Enhancement 1</a> | <a href="enhancement2.md">Enhancement 2</a> | <a href="enhancement3.md">Enhancement 3</a> </nav> <hr>
+<link rel="stylesheet" href="style.css"> <nav> <a href="index.md">Home</a> | <a href="self-assessment.md">Self-Assessment</a> | <a href="enhancement1">Enhancement 1</a> | <a href="enhancement2">Enhancement 2</a> | <a href="enhancement3">Enhancement 3</a> </nav> <hr>
