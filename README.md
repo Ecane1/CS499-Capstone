@@ -1,6 +1,6 @@
 # CS499-Capstone
 Repository for the final for project for CS499
-<style> body { background-color: #f5f5f5; } </style>
+<div style="background-color: #f0f0f0; padding: 20px;">
 
 
 Professional self-assessment
@@ -10,5 +10,7 @@ Throughout my Computer Science program and the development of this ePortfolio, I
 Although much of the program focused on individual work, I consistently strengthened my ability to collaborate in a professional environment. This included participating in code reviews, incorporating instructor feedback, and learning how to communicate technical decisions clearly and effectively. These experiences helped me understand how to work within a larger development process, contribute to shared goals, and adapt my communication style depending on the audience—skills that translate directly to collaborating with future teammates and stakeholders in industry.
 
 The program also reinforced my foundation in data structures and algorithms, helping me understand how performance, scalability, and efficiency influence software design. I applied these principles across multiple assignments, from optimizing search operations to implementing custom data structures. My software engineering coursework deepened my understanding of modular design, object‑oriented programming, and maintainable code architecture, while database courses taught me how to design schemas, write secure queries, and integrate persistent storage into applications. Throughout the program, I developed a strong security mindset by practicing input validation, error handling, and secure coding techniques that reduce vulnerabilities and protect user data.
+
+</div>
 
 The artifacts included in this portfolio represent the culmination of these skills. My software design enhancement demonstrates my ability to refactor and modernize legacy code using clean architecture principles. My algorithms and data structures enhancement highlights my ability to improve performance and implement efficient logic. My database enhancement showcases my understanding of data modeling, CRUD operations, and secure integration between applications and persistent storage. Together, these artifacts form a comprehensive picture of my capabilities as a computer scientist and illustrate the breadth of my technical expertise.
