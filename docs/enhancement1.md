@@ -3,10 +3,12 @@
 </nav>
 <hr>
 
-## Enhancement 1: Software Design & Engineering
-## Summary This enhancement focused on improving modularity, readability, and maintainability by refactoring the original advising program into a cleaner, class‑based structure. 
-## Links
+# Enhancement 1: Software Design & Engineering
 
+## Summary
+This enhancement focused on improving modularity, readability, and maintainability by refactoring the original advising program into a cleaner, class‑based structure.
+
+## Links
 
 -[Original Artifact](https://github.com/Ecane1/CS499-Capstone/blob/main/CourseInformation_Module_Three_Artifact.zip)
 -[Enhanced Artifact](https://github.com/Ecane1/CS499-Capstone/blob/main/CourseAdvising_Enhancement_One.zip)
