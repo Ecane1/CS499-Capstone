@@ -10,4 +10,4 @@
 -[Original Artifact](https://github.com/Ecane1/CS499-Capstone/blob/main/CourseInformation_Module_Three_Artifact.zip)
 -[Enhanced Artifact](https://github.com/Ecane1/CS499-Capstone/blob/main/CourseAdvising_Enhancement_One.zip)
 -[Narrative (Word Doc)](https://github.com/Ecane1/CS499-Capstone/blob/main/CS499_ModuleThree_Software_Design.docx)
--[Code Review Video](https://www.youtube.com/yourvideolink)
+-[Code Review Video](https://www.youtube.com/watch?v=CR3dIu1ynWc)
