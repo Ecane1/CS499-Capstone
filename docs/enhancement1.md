@@ -3,7 +3,7 @@
 </nav>
 <hr>
 
-# Enhancement 1: Software Design & Engineering
+## Enhancement 1: Software Design & Engineering
 ## Summary This enhancement focused on improving modularity, readability, and maintainability by refactoring the original advising program into a cleaner, class‑based structure. 
 ## Links
 
