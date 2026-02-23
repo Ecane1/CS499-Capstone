@@ -7,7 +7,12 @@
 # Enhancement 2: Algorithms & Data Structures
 
 ## Summary
-This enhancement focused on improving the efficiency and scalability of the course‑advising system by replacing linear search operations with optimized data structures. The original program relied heavily on repeated file parsing and sequential lookups, which became slow as the dataset grew. The enhanced version introduces a hash‑map‑based structure to store course information in memory, enabling constant‑time lookups and significantly improving performance. Additional improvements include: - Eliminating redundant file reads - Using structured data containers instead of raw strings - Improving sorting logic for course listings - Reducing algorithmic complexity from \(O(n)\) repeated scans to \(O(1)\) lookups These changes demonstrate mastery of algorithmic thinking and efficient data management. 
+This enhancement focused on improving the efficiency and scalability of the course‑advising system by replacing linear search operations with optimized data structures. The original program relied heavily on repeated file parsing and sequential lookups, which became slow as the dataset grew. The enhanced version introduces a hash‑map‑based structure to store course information in memory, enabling constant‑time lookups and significantly improving performance.
+Additional improvements include: 
+- Eliminating redundant file reads
+- Using structured data containers instead of raw strings
+- Improving sorting logic for course listings
+- Reducing algorithmic complexity from \(O(n)\) repeated scans to \(O(1)\) lookups These changes demonstrate mastery of algorithmic thinking and efficient data management. 
 
 ## Links 
 - [Original Artifact](https://github.com/Ecane1/CS499-Capstone/blob/main/CourseInformation_Module_Three_Artifact.zip)
