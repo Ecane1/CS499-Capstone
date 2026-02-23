@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css"> <nav> <a href="index">Home</a> | <a href="self-assessment">Self-Assessment</a> | <a href="enhancement1">Enhancement 1</a> | <a href="enhancement2">Enhancement 2</a> | <a href="enhancement3">Enhancement 3</a> </nav> <hr>
 
-Welcome to My CS499 ePortfolio This ePortfolio showcases my growth throughout the Computer Science program at SNHU. It includes my professional self-assessment, original and enhanced artifacts, and my capstone code review video. 
+Hello, my name is Eliott Cane and Welcome to My CS499 ePortfolio. This ePortfolio showcases my growth throughout the Computer Science program at SNHU. It includes my professional self-assessment, original and enhanced artifacts, and my capstone code review video. 
 
 <img src="https://github.com/Ecane1/CS499-Capstone/raw/main/my_pic.jpeg" width="150">
 
