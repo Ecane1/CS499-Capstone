@@ -2,7 +2,7 @@
 
 Welcome to My CS499 ePortfolio This ePortfolio showcases my growth throughout the Computer Science program at SNHU. It includes my professional self-assessment, original and enhanced artifacts, and my capstone code review video. 
 
-<img src="https://github.com/Ecane1/CS499-Capstone/raw/main/docs/images/my_pic.jpeg" width="250">
+<img src="https://github.com/Ecane1/CS499-Capstone/raw/main/my_pic.jpeg" width="250">
 
 ## Quick Links
 - [Professional Self-Assessment](self-assessment.md)
